@@ -1,0 +1,26 @@
+{
+  "name": "learning-effect-typescript",
+  "version": "1.0.0",
+  "description": "A Repo to learn and practice about Typescript Effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelgalicia/learning-effect-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelgalicia/learning-effect-typescript/issues"
+  },
+  "homepage": "https://github.com/axelgalicia/learning-effect-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "effect": "^2.0.0-next.19"
+  }
+}
